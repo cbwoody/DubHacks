@@ -1,0 +1,29 @@
+{
+  "name": "carstatsearch",
+  "version": "1.0.0",
+  "description": "Bot to search craigslist and return cars based on a score value tied to Shine API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbwoody/DubHacks.git"
+  },
+  "keywords": [
+    "Cars",
+    "auto",
+    "search",
+    "stats"
+  ],
+  "author": "Cole Woodford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbwoody/DubHacks/issues"
+  },
+  "homepage": "https://github.com/cbwoody/DubHacks#readme",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.2.3"
+  }
+}
